@@ -1,0 +1,134 @@
+{
+  "push": {
+    "chest": [
+      {
+        "name": "Barbell Bench Press",
+        "description": "Lie on a bench holding a barbell with an overhand grip. Lower the bar to your chest, then press it back up to the starting position."
+      },
+      {
+        "name": "Dumbbell Flyes",
+        "description": "Lie on a bench holding a pair of dumbbells. Keep your arms straight and slowly lower the weights out to your sides in a flying motion. Then bring them back to the starting position."
+      },
+      {
+        "name": "Dumbbell Bench Press",
+        "description": "Lie on a flat bench holding a dumbbell in each hand at chest level. Press the dumbbells up until your arms are extended, then slowly lower them back to the starting position."
+      },
+      {
+        "name": "Push-Ups",
+        "description": "Start in a plank position with your hands on the ground beneath your shoulders. Lower your body until your chest nearly touches the ground, then press back up to the starting position."
+      }
+    ],
+    "front delt": [
+      {
+        "name": "Dumbbell Shoulder Press",
+        "description": "Stand holding a pair of dumbbells at shoulder height. Press the weights up above your head, then lower them back to the starting position."
+      },
+      {
+        "name": "Front Delt Raises",
+        "description": "Stand holding a pair of dumbbells at your sides. Slowly raise the weights in front of you to shoulder height, then lower them back to the starting position."
+      }
+    ],
+    "triceps": [
+      {
+        "name": "Tricep Dips",
+        "description": "Sit on the edge of a bench or chair with your hands holding onto the edge. Lower your body by bending your arms, then press back up to the starting position."
+      },
+      {
+        "name": "Tricep Pushdowns",
+        "description": "Stand holding a bar or rope attached to a cable machine. Keeping your elbows close to your sides, press the bar or rope down towards your hips, then slowly release back to the starting position."
+      }
+    ]
+  },
+  "pull": {
+    "back": [
+      {
+        "name": "Bent-Over Barbell Row",
+        "description": "Stand holding a barbell with an overhand grip. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Pull the bar up towards your chest, then lower it back to the starting position."
+      },
+      {
+        "name": "Lat Pulldowns",
+        "description": "Sit at a lat pulldown machine with your feet firmly planted on the ground. Grip the bar with an overhand grip and pull it down towards your chest, then slowly release it back to the starting position."
+      },
+      {
+        "name": "Chin-Ups",
+        "description": "Grab a chin-up bar with an underhand grip and your hands slightly closer than shoulder-width apart. Pull your body up until your chin is above the bar, then slowly lower back to the starting position."
+      },
+      {
+        "name": "Dumbbell Row",
+        "description": "Place your left knee and left hand on a flat bench and hold a dumbbell in your right hand. Let your right arm hang straight down, then pull the dumbbell up toward your chest, keeping your elbow close to your body. Slowly lower the dumbbell back to the starting position and repeat for the desired number of reps. Repeat on the other side."
+      }
+    ],
+    "biceps": [
+      {
+        "name": "Barbell Curls",
+        "description": "Stand holding a barbell with an underhand grip. Keeping your elbows close to your sides, curl the bar up towards your chest, then slowly lower it back to the starting position."
+      },
+      {
+        "name": "Hammer Curls",
+        "description": "Stand holding a pair of dumbbells at your sides with a neutral grip (palms facing in). Keeping your elbows close to your sides, curl the weights up towards your shoulders, then lower them back to the starting position."
+      }
+    ],
+    "rear delt": [
+      {
+        "name": "Bent-Over Dumbbell Raises",
+        "description": "Stand holding a pair of dumbbells with a neutral grip (palms facing in). Hinge forward at the hips and keep your back straight. Raise the weights out to your sides until they are at shoulder height, then lower them back to the starting position."
+      },
+      {
+        "name": "Rear Delt Flyes",
+        "description": "Lie face down on a bench holding a pair of dumbbells. Keeping your arms straight, raise the weights out to your sides until they are parallel to the ground, then lower them back to the starting position."
+      }
+    ],
+    "side delt": [
+      {
+        "name": "Lateral Raises",
+        "description": "Stand holding a pair of dumbbells at your sides. Keeping your arms straight, raise the weights out to your sides until they are at shoulder height, then lower them back to the starting position."
+      },
+      {
+        "name": "Cable Lateral Raises",
+        "description": "Stand at a cable machine with a handle attached to the low pulley. Hold the handle with a neutral grip (palms facing in) and raise your arms out to your sides until they are at shoulder height, then lower them back to the starting position."
+      }
+    ]
+  },
+  "legs": {
+    "quads": [
+      {
+        "name": "Barbell Squats",
+        "description": "Stand holding a barbell across your upper back with an overhand grip. Lower your body by bending your knees, then press back up to the starting position."
+      },
+      {
+        "name": "Leg Press",
+        "description": "Sit in a leg press machine and place your feet on the platform. Push the platform away from you using your legs, then slowly release it back to the starting position."
+      },
+      {
+        "name": "Lunges",
+        "description": "Stand with your feet hip-width apart. Step forward with one leg and lower your body until your back knee nearly touches the ground and your front thigh is parallel to the ground. Push through your front heel to return to the starting position and repeat on the other side."
+      }
+    ],
+    "hamstring": [
+      {
+        "name": "Lying Leg Curls",
+        "description": "Lie on your stomach on a leg curl machine. Hold onto the handles and curl your legs up towards your buttocks, then slowly release them back to the starting position."
+      },
+      {
+        "name": "Romanian Deadlifts",
+        "description": "Stand holding a barbell with an overhand grip. Hinge forward at the hips and lower the bar towards the ground, keeping your back straight. Then press your hips forward and raise the bar back to the starting position."
+      }
+    ],
+    "calf": [
+      {
+        "name": "Standing Calf Raises",
+        "description": "Stand on a calf raise machine with the balls of your feet on the platform. Raise your heels as high as you can, then lower them back to the starting position."
+      },
+      {
+        "name": "Donkey Calf Raises",
+        "description": "Stand on a calf raise machine with the balls of your feet on the platform. Place your forearms on the pads and lean forward. Raise your heels as high as you can, then lower them back to the starting position."
+      }
+    ],
+    "glutes": [
+      {
+        "name": "Hip Thrusts",
+        "description": "Sit on the ground with your upper back against a bench and a barbell across your hips. Push through your feet to raise your hips until your body forms a straight line from your knees to your shoulders, then slowly lower back to the starting position."
+      }
+    ]
+  }
+}

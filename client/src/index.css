@@ -1,0 +1,57 @@
+body {
+  /*background: linear-gradient(to right, #afd2ff, #ff8383);*/
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://wallpapertag.com/wallpaper/full/f/b/b/124351-gym-background-2560x1704-xiaomi.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid black;
+  padding-bottom: 10px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  color: inherit;
+  text-decoration: none; /* no underline */
+}
+
+a:hover {
+  color: inherit;
+}
+
+button.workout {
+  border: 2px solid white;
+  border-radius: 10px;
+  transition: border-color 0.4s ease-in-out;
+}
+
+button.workout:hover {
+  animation: workout-animation 0.5s;
+  border-color: red;
+}
+
+@keyframes workout-animation {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+
+button.workout:hover {
+  animation-fill-mode: forwards;
+}
